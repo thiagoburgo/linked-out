@@ -1,0 +1,4 @@
+D:\SkyDrive\Treinamentos\TreinamentoCSharp\ASP.NET\Qualiti.LinkedOut\Qualiti.LinkedOut.Entities\bin\Debug\Qualiti.LinkedOut.Entities.dll
+D:\SkyDrive\Treinamentos\TreinamentoCSharp\ASP.NET\Qualiti.LinkedOut\Qualiti.LinkedOut.Entities\bin\Debug\Qualiti.LinkedOut.Entities.pdb
+D:\SkyDrive\Treinamentos\TreinamentoCSharp\ASP.NET\Qualiti.LinkedOut\Qualiti.LinkedOut.Entities\obj\Debug\Qualiti.LinkedOut.Entities.dll
+D:\SkyDrive\Treinamentos\TreinamentoCSharp\ASP.NET\Qualiti.LinkedOut\Qualiti.LinkedOut.Entities\obj\Debug\Qualiti.LinkedOut.Entities.pdb
