@@ -1,0 +1,9 @@
+D:\SkyDrive\Treinamentos\TreinamentoCSharp\ASP.NET\Qualiti.LinkedOut\Qualiti.LinkedOut.BusinessLayer\bin\Debug\Qualiti.LinkedOut.BusinessLayer.dll
+D:\SkyDrive\Treinamentos\TreinamentoCSharp\ASP.NET\Qualiti.LinkedOut\Qualiti.LinkedOut.BusinessLayer\bin\Debug\Qualiti.LinkedOut.BusinessLayer.pdb
+D:\SkyDrive\Treinamentos\TreinamentoCSharp\ASP.NET\Qualiti.LinkedOut\Qualiti.LinkedOut.BusinessLayer\bin\Debug\Qualiti.LinkedOut.DataLayer.dll
+D:\SkyDrive\Treinamentos\TreinamentoCSharp\ASP.NET\Qualiti.LinkedOut\Qualiti.LinkedOut.BusinessLayer\bin\Debug\Qualiti.LinkedOut.Entities.dll
+D:\SkyDrive\Treinamentos\TreinamentoCSharp\ASP.NET\Qualiti.LinkedOut\Qualiti.LinkedOut.BusinessLayer\bin\Debug\Qualiti.LinkedOut.DataLayer.pdb
+D:\SkyDrive\Treinamentos\TreinamentoCSharp\ASP.NET\Qualiti.LinkedOut\Qualiti.LinkedOut.BusinessLayer\bin\Debug\Qualiti.LinkedOut.Entities.pdb
+D:\SkyDrive\Treinamentos\TreinamentoCSharp\ASP.NET\Qualiti.LinkedOut\Qualiti.LinkedOut.BusinessLayer\obj\Debug\Qualiti.LinkedOut.BusinessLayer.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Treinamentos\TreinamentoCSharp\ASP.NET\Qualiti.LinkedOut\Qualiti.LinkedOut.BusinessLayer\obj\Debug\Qualiti.LinkedOut.BusinessLayer.dll
+D:\SkyDrive\Treinamentos\TreinamentoCSharp\ASP.NET\Qualiti.LinkedOut\Qualiti.LinkedOut.BusinessLayer\obj\Debug\Qualiti.LinkedOut.BusinessLayer.pdb

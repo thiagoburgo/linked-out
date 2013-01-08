@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qualiti.LinkedOut.Entities", "Qualiti.LinkedOut.Entities\Qualiti.LinkedOut.Entities.csproj", "{D78A0956-E9D2-4B6A-AAF1-E47ACF99D1F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qualiti.LinkedOut.DataLayer", "Qualiti.LinkedOut.DataLayer\Qualiti.LinkedOut.DataLayer.csproj", "{8818C5DE-24B7-4E80-B736-D32A939DD2B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qualiti.LinkedOut.BusinessLayer", "Qualiti.LinkedOut.BusinessLayer\Qualiti.LinkedOut.BusinessLayer.csproj", "{E33F0711-2817-4B18-8107-2319333EB4BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qualiti.LinkedOut.WebSite", "Qualiti.LinkedOut.WebSite\Qualiti.LinkedOut.WebSite.csproj", "{9D88F5AA-83AD-4FE4-8902-8966851C0112}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qualiti.LinkedOut.BusinessDataLayerContracts", "Qualiti.LinkedOut.BusinessDataLayerContracts\Qualiti.LinkedOut.BusinessDataLayerContracts.csproj", "{4B7D25C6-6BBD-40DB-8166-7373521D33B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qualiti.LinkedOut.UIBusinessLayerContracts", "Qualiti.LinkedOut.UIBusinessLayerContracts\Qualiti.LinkedOut.UIBusinessLayerContracts.csproj", "{63CCAD9D-35FD-4042-A6F6-101530F2A93C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D78A0956-E9D2-4B6A-AAF1-E47ACF99D1F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D78A0956-E9D2-4B6A-AAF1-E47ACF99D1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D78A0956-E9D2-4B6A-AAF1-E47ACF99D1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D78A0956-E9D2-4B6A-AAF1-E47ACF99D1F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8818C5DE-24B7-4E80-B736-D32A939DD2B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8818C5DE-24B7-4E80-B736-D32A939DD2B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8818C5DE-24B7-4E80-B736-D32A939DD2B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8818C5DE-24B7-4E80-B736-D32A939DD2B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E33F0711-2817-4B18-8107-2319333EB4BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E33F0711-2817-4B18-8107-2319333EB4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E33F0711-2817-4B18-8107-2319333EB4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E33F0711-2817-4B18-8107-2319333EB4BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D88F5AA-83AD-4FE4-8902-8966851C0112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D88F5AA-83AD-4FE4-8902-8966851C0112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D88F5AA-83AD-4FE4-8902-8966851C0112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D88F5AA-83AD-4FE4-8902-8966851C0112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B7D25C6-6BBD-40DB-8166-7373521D33B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B7D25C6-6BBD-40DB-8166-7373521D33B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B7D25C6-6BBD-40DB-8166-7373521D33B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B7D25C6-6BBD-40DB-8166-7373521D33B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63CCAD9D-35FD-4042-A6F6-101530F2A93C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63CCAD9D-35FD-4042-A6F6-101530F2A93C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63CCAD9D-35FD-4042-A6F6-101530F2A93C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63CCAD9D-35FD-4042-A6F6-101530F2A93C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
