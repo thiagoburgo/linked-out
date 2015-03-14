@@ -1,0 +1,1 @@
+Um projeto de rede social para o curso de ASP.NET do Projeto de Residência em Software da Softex/Procenge.
